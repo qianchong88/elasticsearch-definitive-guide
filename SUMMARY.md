@@ -1,5 +1,4 @@
 # Summary
-
 * [Introduction](README.md)
 * [入门](getting_started/README.md)
    * [初识](getting_started/what_is_it.md)
